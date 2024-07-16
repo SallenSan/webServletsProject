@@ -17,4 +17,8 @@ public class ServiceDAO {
         }
     }
 
+    public static SessionFactory getSessionFactory() {
+        return sessionFactory;
+    }
+
 }

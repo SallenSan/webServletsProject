@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9e7a27bf-70c2-4192-bff5-706a484594ab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/dao/LivroDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/dao/LivroDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteca/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/dao/ServiceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/dao/ServiceDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/dao/UsuarioDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/dao/UsuarioDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/model/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/model/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/servlet/UsuarioServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/src/main/java/org/academy/servlet/UsuarioServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.Unknown [install].executor": "Run",
+    "Maven.hibernate-Aula-2406 [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev1",
     "kotlin-language-version-configured": "true",
